@@ -1,0 +1,11 @@
+informacion de git
+
+https://github.com/Edwards2kx/expertos_patrimoniales_calculator_app.git
+
+echo "# expertos_patrimoniales_calculator_app" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Edwards2kx/expertos_patrimoniales_calculator_app.git
+git push -u origin main
